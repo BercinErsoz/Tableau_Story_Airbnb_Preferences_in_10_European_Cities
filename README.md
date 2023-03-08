@@ -13,7 +13,7 @@ I created a visualization that examines some price drivers (location, reviews, q
 
 
 
-## Summary
+## Facts
 * By using cross-sectional Airbnb data for European cities, some price drivers (location, reviews, quality etc.) are examined. Although Amsterdam takes the lead in the most expensive cities, Athens seems to be the most affordable city on the  average. When the you click on the Cities, weekday and weekend prices are also shown in detail.
     * tool: mapping, adding second graph via Tooltip, adding third graph via Tooltip, filtering accoring to City
  
