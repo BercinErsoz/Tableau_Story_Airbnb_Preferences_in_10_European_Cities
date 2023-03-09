@@ -5,8 +5,7 @@
 
 
 ## Summary
-Airbnb data contains listings among 10 European Cities.
-I created a visualization that examines some price drivers (location, reviews, quality etc.).
+I examined some price drivers (location, quality, reviews etc.) of Airbnb listings with open data and create a story via Tableau Public for 10 European Cities.
 
 ## Design
 * I looked at how each factor(hosting status, weekend/weekday status, cleanliness rating, guest satisfaction rating, 4 location indicators) affect price.
