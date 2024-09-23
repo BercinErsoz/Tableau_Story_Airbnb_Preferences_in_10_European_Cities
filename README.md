@@ -1,7 +1,7 @@
 # Create a Tableau Story Airbnb Data
 
 
-[Final: Tableau Story from Airbnb Data](https://public.tableau.com/views/AirbnbPreferencesin10EuropeanCities/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Final: Tableau Story from Airbnb Data]([https://public.tableau.com/views/AirbnbPreferencesin10EuropeanCities/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/AirbnbPreferencesin10EuropeanCities/map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 ## Summary
